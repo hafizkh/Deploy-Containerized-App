@@ -1,0 +1,21 @@
+.bulb-area {
+  animation: bulb-area 2s linear infinite;
+}
+
+
+@keyframes bulb-area {
+  0% {
+    fill: rgb(212, 211, 224);
+  }
+
+  33% {
+    fill: rgb(229, 255, 0);
+  }
+
+  66% {
+    fill: rgb(205, 202, 50);
+  }
+  100% {
+    fill: yellow;
+  }
+}
