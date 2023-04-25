@@ -1,7 +1,7 @@
 # GitHub Action & Deployment
 
 #### The URL of this project is given below:
-[Animation Assignment](hafizkh.azurewebsites.net/)
+[Azure Webapp](hafizkh.azurewebsites.net/)
 
 
 ## Task 1
