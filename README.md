@@ -1,7 +1,7 @@
 # GitHub Action & Deployment
 
 #### The URL of this project is given below:
-[Azure Webapp](https://hafizkh.azurewebsites.net/)
+[Containerized Azure Webapp](https://hafizkh.azurewebsites.net/)
 
 
 ## Task 1
